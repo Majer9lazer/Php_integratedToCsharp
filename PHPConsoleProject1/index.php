@@ -14,4 +14,5 @@ foreach ($arr as $number)
 	echo "$number\n";
 }
 Console.readline();
+
 ?>
